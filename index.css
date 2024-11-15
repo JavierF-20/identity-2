@@ -1,0 +1,26 @@
+body {
+    background-image: url("https://cdn.vectorstock.com/i/500p/19/76/blue-triangle-abstract-background-vector-1581976.jpg");
+    background-position:center; /* Center the image */
+    background-size:cover; /* Resize the background image to cover the entire container */ }
+
+    .center {
+        margin-left: auto;
+        margin-right: auto;
+      }
+
+      {text-align: .center;}
+* {
+  text-align: center;}
+  body {
+  text-align: center;}
+h3{background-color: rgba(0, 255, 255, 0.308);}
+table, th, td {border:1px solid rgb(75, 236, 228)}
+table { background-color: rgb(39, 158, 152); }
+form{
+  background-color: rgb(215, 250, 250);
+  padding: 20px;
+  border-radius: 10px;
+  width: 450px;
+  margin: 0 auto;
+  /*margin: 0 auto; centers the form */
+}
